@@ -1,4 +1,4 @@
-# Simple-Asprite-Installer
+# Simple-Aseprite-Installer
 This script allows non debian users to install Aseprite very easy, works on all distros (I think).
 
 # How to run it?
